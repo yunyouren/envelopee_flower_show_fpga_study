@@ -1,0 +1,37 @@
+{
+  "title": "Flowershow Demo",
+  "description": "Flowershow demo site showcasing its features",
+  "image": "/assets/hiroshige.jpg",
+  "nav": {
+    "title": "Flowershow Demo",
+    "links": [
+      {
+        "href": "/about",
+        "name": "About"
+      },
+      {
+        "href": "/#-markdown-syntax",
+        "name": "Syntax"
+      }
+    ],
+    "social": [
+      {
+        "href": "https://github.com/flowershow/demo",
+        "name": "GitHub Profile",
+        "label": "github"
+      },
+      {
+        "href": "https://x.com/flowershowapp",
+        "name": "Follow me on X",
+        "label": "twitter"
+      }
+    ]
+  },
+  "showSidebar": true,
+  "showEditLink": true,
+  "theme": {
+    "defaultMode": "system",
+    "showModeSwitch": true
+  },
+  "markdownRenderer": "auto"
+}
